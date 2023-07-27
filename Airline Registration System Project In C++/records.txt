@@ -1,0 +1,10 @@
+_______________________XYZ Airlines________________
+_______________________Ticket________________
+_______________________________________________
+Customer ID:1
+Customer name:kunal
+CUstomer Gender:male
+	Description 
+
+Destination		Dubai
+Flight cost:		37000
